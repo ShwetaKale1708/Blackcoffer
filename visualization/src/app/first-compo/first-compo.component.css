@@ -1,0 +1,17 @@
+.dashboard {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 2fr)); 
+  gap: 40px;
+  justify-content: center; 
+  align-items: center;
+  margin-top: 30px;
+  }
+  
+  .box {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+   
+  }

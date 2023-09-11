@@ -1,0 +1,8 @@
+rect.bar{
+    width: 7px;
+    color: blue;
+}
+
+#chart-container svg{
+    margin-left: 50px;
+}
